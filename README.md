@@ -1,2 +1,5 @@
-# projeto_rh
-Projeto Banco de Dados
+# Projeto_RH_BD
+Grupo 10 - Recursos Humanos
+
+Integrantes:
+
