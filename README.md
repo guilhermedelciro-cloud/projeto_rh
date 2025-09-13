@@ -1,7 +1,9 @@
-# Projeto Recursos Humanos - ADM Banco de Dados
-Grupo 10 - Recursos Humanos
+# Projeto Gestão de RH - ADM Banco de Dados
 
-Equipe do Projeto: 
+# Grupo 10 - Recursos Humanos
+Projeto de Extensão em Administração em Banco de Dados
+
+# Equipe do Projeto
 
 Função: A definir | Bruno Armando dos Santos Alfieri  - RA: 924100667 |
 
@@ -11,4 +13,12 @@ Função: A definir | Emanuel Ribeiro da Silva - RA: 925200279 |
 
 Função: A definir | Guilherme Delciro da Silva - RA: 923209023 | https://github.com/guilhermedelciro-cloud
 
-Descrição do Projeto:
+# Descrição do Sistema
+Este módulo de ERP de Recursos Humanos tem como objetivo centralizar e automatizar a gestão de pessoas dentro da empresa. Ele permite o cadastro completo de colaboradores, incluindo dados pessoais, cargos e histórico profissional. Conta também com funcionalidades para controle de ponto eletrônico, processamento da folha de pagamento, gestão de férias e benefícios corporativos.
+
+# Público-Alvo
+- Empresas de e-commerce
+- Empresas em crescimento
+- Gestores de RH e Administração
+- Empresas com equipe interna de RH
+- Negócios que precisam de conformidade legal
