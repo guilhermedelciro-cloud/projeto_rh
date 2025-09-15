@@ -5,7 +5,7 @@ Projeto de Extensão em Administração em Banco de Dados
 
 # Equipe do Projeto
 
-Função: Líder | Bruno Armando dos Santos Alfieri  - RA: 924100667 |
+Função: Líder | Bruno Armando dos Santos Alfieri  - RA: 924100667 | https://github.com/brunoalfieri2025
 
 Função: Analista | Camyla Tasso Clemente - RA: 924120368 | https://github.com/camylatasso11-dev
 
