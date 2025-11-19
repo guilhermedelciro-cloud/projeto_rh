@@ -1,6 +1,6 @@
 # RH-Management
 
-## Informações do Sistema
+## 🎯 Informações do Sistema
  - **Nome do sistema:** RH-Management
  
  - **Tipo de sistema:** ERP
@@ -40,12 +40,33 @@
 O Sistems RH-Management é um ERP especializado em Recursos Humanos, desenvolvido para centralizar todas as atividades relacionadas à gestão de pessoas dentro da empresa. Ele se destaca por integrar processos como cadastro de colaboradores, controle de ponto, folha de pagamento, gestão de férias e administração de benefícios em uma única plataforma, oferecendo mais organização, automação e conformidade legal para o setor de RH.
 
 # 📊 Análise de Mercado – RH-Management | ERP
-## 🟩 **Tendências do Setor**
+### 🟦 **Tendências do Setor**
 O mercado de soluções para Recursos Humanos está passando por rápida transformação impulsionada por avanços tecnológicos e mudanças nas relações de trabalho. Entre as principais tendências estão:
  - Crescimento acelerado de sistemas SaaS
  - Automação de folha e ponto
  - Digitalização completa dos processos de RH
 
-# Concorrentes Diretos
+### 🟦 Concorrentes Diretos (Sistemas focados em RH)
+ - SeniorRH →  forte automação de processos trabalhistas.
+ - Totvs RH → solução robusta para empresas de médio e grande porte.
 
-   
+### 🟦 Concorrentes Indiretos (ERPs gerais com módulo de RH)
+ - Omie → ERP para PMEs com módulos complementares de gestão
+ - Bling / Tiny → ERPs para controle geral que integram parte de gestão de equipe
+
+### 🟦 Perfil do Cliente - RH Management
+ - Tem entre 10 a 200 colaboradores
+ - Dificulddades em controlar férias, ponto, horas extras e documentos de colaboradores
+ - Perde muito tempo com processo manuais, planilha, cálculos repetitivos e folhas
+ - Busca uma Solução simples, automatizada e com baixo custo
+ - **O HR-Manager se posiciona como uma solução intermediária, unindo a simplicidade dos sistemas de ponto com recursos avançados de ERPs completos, mas sem os altos custos das soluções enterprise.**
+
+### 🟩 Oportunidades
+- Crescimento das PMEs que ainda não possuem sistemas de RH modernos
+- Expansão do modelo de trabalho híbrido e remoto
+- Baixo custo de implementação em nuvem, facilitando adoção
+
+### 🟥 Ameaças
+- Mudanças constantes na legislação trabalhista, exigindo constantes atualizações
+- Resistência de empresas que ainda preferem processos tradicionais e planilhas
+- Concorrentes já consolidados com grande presença no mercado
