@@ -1,9 +1,9 @@
 # Projeto RH Manager - Banco de Dados
 
-# Grupo 10 - Recursos Humanos
+## Grupo 10 - Recursos Humanos
 Projeto de Extensão em Administração em Banco de Dados
 
-# Equipe do Projeto
+## Equipe do Projeto
 
 Função: Analista | Bruno Armando dos Santos Alfieri  - RA: 924100667 | https://github.com/brunoalfieri2025
 
