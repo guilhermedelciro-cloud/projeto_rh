@@ -37,4 +37,15 @@
  - Automação do fluxo de admissão e desligamento: Reduz atrasos e diminui burocracias, fornecendo uma melhor experiência do colaborador.
 
 ## Descrição
-Nosso sistema é um ERP especializado em Recursos Humanos, desenvolvido para centralizar todas as atividades relacionadas à gestão de pessoas dentro da empresa. Ele se destaca por integrar processos como cadastro de colaboradores, controle de ponto, folha de pagamento, gestão de férias e administração de benefícios em uma única plataforma, oferecendo mais organização, automação e conformidade legal para o setor de RH.
+O Sistems RH-Management é um ERP especializado em Recursos Humanos, desenvolvido para centralizar todas as atividades relacionadas à gestão de pessoas dentro da empresa. Ele se destaca por integrar processos como cadastro de colaboradores, controle de ponto, folha de pagamento, gestão de férias e administração de benefícios em uma única plataforma, oferecendo mais organização, automação e conformidade legal para o setor de RH.
+
+# 📊 Análise de Mercado – RH-Management | ERP
+## 🟩 **Tendências do Setor**
+O mercado de soluções para Recursos Humanos está passando por rápida transformação impulsionada por avanços tecnológicos e mudanças nas relações de trabalho. Entre as principais tendências estão:
+ - Crescimento acelerado de sistemas SaaS
+ - Automação de folha e ponto
+ - Digitalização completa dos processos de RH
+
+# Concorrentes Diretos
+
+   
