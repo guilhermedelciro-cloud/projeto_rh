@@ -61,12 +61,12 @@ O mercado de soluções para Recursos Humanos está passando por rápida transfo
  - Busca uma Solução simples, automatizada e com baixo custo
  - **O HR-Manager se posiciona como uma solução intermediária, unindo a simplicidade dos sistemas de ponto com recursos avançados de ERPs completos, mas sem os altos custos das soluções enterprise.**
 
-### 🟩 Oportunidades
+## 🟩 Oportunidades
 - Crescimento das PMEs que ainda não possuem sistemas de RH modernos
 - Expansão do modelo de trabalho híbrido e remoto
 - Baixo custo de implementação em nuvem, facilitando adoção
 
-### 🟥 Ameaças
+## 🟥 Ameaças
 - Mudanças constantes na legislação trabalhista, exigindo constantes atualizações
 - Resistência de empresas que ainda preferem processos tradicionais e planilhas
 - Concorrentes já consolidados com grande presença no mercado
