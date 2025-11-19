@@ -56,7 +56,7 @@ O mercado de soluções para Recursos Humanos está passando por rápida transfo
 
 ### 🟦 Perfil do Cliente - RH Management
  - Tem entre 10 a 200 colaboradores
- - Dificulddades em controlar férias, ponto, horas extras e documentos de colaboradores
+ - Dificuldades em controlar férias, ponto, horas extras e documentos de colaboradores
  - Perde muito tempo com processo manuais, planilha, cálculos repetitivos e folhas
  - Busca uma Solução simples, automatizada e com baixo custo
  - **O HR-Manager se posiciona como uma solução intermediária, unindo a simplicidade dos sistemas de ponto com recursos avançados de ERPs completos, mas sem os altos custos das soluções enterprise.**
