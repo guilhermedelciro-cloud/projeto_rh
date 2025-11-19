@@ -1,7 +1,7 @@
-# RH-Manager
+# RH-Management
 
 ## Informações do Sistema
- - **Nome do sistema:** RH-Manager
+ - **Nome do sistema:** RH-Management
  
  - **Tipo de sistema:** ERP
  
