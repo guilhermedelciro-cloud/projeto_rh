@@ -98,4 +98,4 @@ Esse posicionamento reforça a imagem de uma solução moderna, prática e proje
 **Proposta de valor:**
 > "Organize o setor de Recursos Humanos, elimine processos manuais e reduza erros na folha de pagamento com um ERP simples, completo e especializado em RH.”
 
-# ⚙️ Plano Operacional
+# ⚙️ Plano Operacional - RH Manager
