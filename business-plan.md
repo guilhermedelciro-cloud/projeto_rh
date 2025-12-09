@@ -70,3 +70,27 @@ O mercado de soluções para Recursos Humanos está passando por rápida transfo
 - Mudanças constantes na legislação trabalhista, exigindo constantes atualizações
 - Resistência de empresas que ainda preferem processos tradicionais e planilhas
 - Concorrentes já consolidados com grande presença no mercado
+
+# 📣 Plano de Marketing
+Organize seu RH, reduza erros e transforme a gestão de pessoas da sua empresa com um ERP completo, seguro e fácil de usar.
+
+### 🎯 Estratégias de Divulgação
+- **Inbound marketing:**  Conteúdos educativos sobre folha de pagamento, controle de ponto, legislação trabalhista e boas práticas de RH.
+- **Redes sociais:** Com foco em LinkedIn e Instagram, divulgando dicas, tutoriais e casos de uso.
+- **Parcerias:** Parcerias com contadores e consultorias de RH, que podem indicar o sistema para seus clientes.
+
+### 🎯 Poscionamento da Marca
+O RH-Manager será posicionado como um sistema:
+- Acessível e intuitivo, ideal para pequenas e médias empresas.
+- Especializado em RH, oferecendo funcionalidades focadas exclusivamente na gestão de pessoas.
+- Confiável e seguro, com ênfase em compliance e conformidade legal.
+- Inovador, ao integrar ponto, folha, benefícios e documentos em um único lugar.
+- Escalável, permitindo que empresas cresçam sem precisar trocar de sistema.
+
+Esse posicionamento reforça a imagem de uma solução moderna, prática e projetada para facilitar o trabalho do setor de Recursos Humanos.
+
+### 🎯 Canais de Aquisição
+- **Instagram:** Anúncios patrocinados e conteúdo educativo.
+- **Google ADS:** Campanhas para termos como “sistema de folha de pagamento”, “controle de ponto online”, “software de RH”.
+- **LinkedIn ADS:** Segmentado para gerentes de RH, administradores e empresários.
+- **YouTube:** Vídeos explicativos, tutoriais e demonstrações de uso.
