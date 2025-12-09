@@ -94,3 +94,6 @@ Esse posicionamento reforça a imagem de uma solução moderna, prática e proje
 - **Google ADS:** Campanhas para termos como “sistema de folha de pagamento”, “controle de ponto online”, “software de RH”.
 - **LinkedIn ADS:** Segmentado para gerentes de RH, administradores e empresários.
 - **YouTube:** Vídeos explicativos, tutoriais e demonstrações de uso.
+
+**Proposta de valor:**
+> "Organize o setor de Recursos Humanos, elimine processos manuais e reduza erros na folha de pagamento com um ERP simples, completo e especializado em RH.”
